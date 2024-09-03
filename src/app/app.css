@@ -70,13 +70,13 @@ main {
 }
 
 
-.portada{
+.portada, .main{
   height: 100dvh;
 }
 
-.main, .main {
+/*.main, main {
   height: 100lvh;
-}
+}*/
 
 .blur-overlay-screen { 
   position: fixed;
