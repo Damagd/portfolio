@@ -47,7 +47,7 @@ export default function Home() {
                 </ListPoint>
                 <ListPoint>
                     <p>
-                        You can check my last portfolio <a href="https://opengameart.org/content/3d-house-construction-site-lowpoly-cc0" target="_blank">here</a>
+                        You can check my last portfolio <a href="https://damagd.github.io/keivin-s-portfolio/" target="_blank">here</a>
                     </p>
                 </ListPoint>
                 <ListPoint>
