@@ -1,0 +1,198 @@
+{
+    "p": [
+      {
+        "_id": "0",
+        "photo": "./projects/WIP.png",
+        "title": "WIP - Visual Warehouse Management Project",
+        "date": "Work in progress",
+        "technologies": [
+          "React","CSS", "Php Laravel", "Inertia", "Figma" 
+        ],
+        "short_description": "Personal project about a visual warehouse management system",
+        "description": "Following the design idea of 'FindIt', I'm in the making of a warehouse management system with visual cues./*This product is still in progress. Currently, I am training in the use of React alongside PHP Laravel, with the assistance of Inertia, which acts as a 'glue' to facilitate the integration of these two technologies."
+      },
+      {
+        "_id": "1",
+        "photo": "./images/process/working_on.PNG",
+        "title": "WIP - Social Media App",
+        "date": "Work in progress",
+        "technologies": [
+          "Flutter", "Firebase", "Figma" 
+        ],
+        "short_description": "Personal project based on an idea I have for a social media application.",
+        "description": "Personal project based on an idea I have for a social media application.I decided to start this project because I came up with an idea for a mobile-focused social media application./*I am also using this project to learn new technologies and development for different platforms, such as using Flutter for mobile front-end and Firebase for the back-end. This back-end will be temporary if the project grows./*Due to privacy reasons, I am unable to disclose many details about the project at this time, as the requirements and potential stakeholders have not yet been fully defined."
+      },
+      {
+        "_id": "2",
+        "photo": "./projects/scene.PNG",
+        "video": "https://www.youtube.com/embed/BiGiT9vDw30?si=gy0KBgD7vVrWdYWK",
+        "title": "Construction zone - Interactive portfolio scene",
+        "date": "12/20/2024",
+        "technologies": [
+          "React","CSS", "JavaScript", "React Three Fiber", "Figma" 
+        ],
+        "short_description": "Small interactive 3D scene made for my last portfolio",
+        "description": "Interactive scene created to fill the background of my previous portfolio. I decided to include it here because I feel I learned a lot from creating these interactive elements, knowledge that can benefit me in other areas./*For this small project, I had to consider various aspects, such as 3D rendering, interaction between HTML elements and the 3D scene, steering behaviors to ensure certain models followed a defined path, animations, and optimization techniques to prevent performance issues, among other things./*If you want to download the project, it is available at the GitHub link. Alternatively, you can view the demo via the link on the side",
+        "links": [
+          {
+            "page": "demo",
+            "link": "https://damagd.github.io/3dbliss/"
+          },
+          {
+            "page": "github",
+            "link": "https://damagd.github.io/3dbliss/"
+          },
+          {
+            "page": "youtube",
+            "link": "https://youtu.be/BiGiT9vDw30"
+          }
+        ]
+      },
+      {
+        "_id": "3",
+        "photo": "./projects/bliss.PNG",
+        "video": "https://www.youtube.com/embed/3xJwg8J8VAI?si=_EXDriz66COR2zNX",
+        "title": "3DBliss - prototype static page",
+        "date": "10/01/2023",
+        "technologies": [
+          "HTML","CSS", "JavaScript", "BootStrap", "Threejs", "Figma" 
+        ],
+        "short_description": "Static web page prototype/concept for a 3D printing company",
+        "description": "I was hired to design and develop the promotional static web page for the 3D printing company 3DBliss./*This first demo is just a prototype used as a visual concept for future references as the project moves forwards./*I used this project to get into 3D web development (allowed to  share the project without any relevant information of the organization).",
+        "links": [
+          {
+            "page": "figma",
+            "link": "https://www.figma.com/file/W8QBtG6nbuBO0uPKqrSXPH/Memorias?type=design&node-id=1%3A2&mode=design&t=9J1RRo4FkXiRORBI-1" 
+          },
+          {
+            "page": "youtube",
+            "link": "https://youtu.be/3xJwg8J8VAI?feature=shared"
+          }
+        ]
+      },
+      {
+        "_id": "4",
+        "photo": "./projects/radi.PNG",
+        "video": "https://www.youtube.com/embed/iA-v5bz-jN8?si=yuozI5z1TO_wIrYq",
+        "title": "RADI - Web application",
+        "date": "12/15/2022",
+        "technologies": [
+          "HTML","CSS", "JavaScript", "BootStrap", "PHP Laravel", "PMBOK", "SCRUM", "Figma" 
+        ],
+        "short_description": "Web application for project management on an IT department using a custom methodology",
+        "description": "''Registro de actividades para un departamento de informática'' (RADI), is a web application for project management in an IT department that I, along with four more people, were in charged of its development./*The projects that are managed in the application use an internal work methodology, which is the reason why the project was planned./*This project was planned and developed according to PMBOK, following its different declared processes/stages. In the last stages, we started to use SCRUM as a main methodology./*I was part of the design process (design both structural and visual), and later on I was the main in charge of the development process (programming)./*RADI is built without any Front-end framework, just using HTML/CSS/JS and a little of bootstrap, emulating an SPA. Its Back-end was built on PHP using the Laravel framework.",
+        "links": [
+          {
+            "page": "figma",
+            "link": "https://www.figma.com/file/kUQRe5A3MZxDGerXEQKBLb/RADI?type=design&node-id=216%3A153&mode=design&t=zGEin1nwLSIEfATV-1" 
+          },
+          {
+            "page": "youtube",
+            "link": "https://www.youtube.com/watch?v=iA-v5bz-jN8"
+          }
+        ]
+      },
+      {
+        "_id": "5",
+        "photo": "./projects/findit.PNG",
+        "title": "FindIt - Mobile mockup",
+        "video": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhuCjOyDQET8RCxR8T2kaFG%2FFindIT%3Ftype%3Ddesign%26node-id%3D199%253A4285%26mode%3Ddesign%26t%3DrGmsCdSwvBlXbEH9-1",
+        "date": "11/22/2021",
+        "technologies": [
+          "Figma"
+        ],
+        "short_description": "Design project for a warehouse management application.",
+        "description": "Design of a mobile management application. FindIt is an application for designing, planning, and keeping track of movements on a warehouse in a visual and friendly way. This app is focused on being used in warehouses, but you can design and keep track of any inventory./*This concept was made to apply all the knowledge I acquired through our interface design course at university./*This project goes from all the phases of design, from the business model canvas to the task flow. As well from the app prototype in paper, doing the atomic design, to the high fidelity mockup./*Feel free to check all the pages in the figma link project to have all the details. This preview just shows the mockup for new users.",
+        "links": [
+          {
+            "page": "figma",
+            "link": "https://www.figma.com/file/huCjOyDQET8RCxR8T2kaFG/FindIT?type=design&node-id=199%3A4285&mode=design&t=rGmsCdSwvBlXbEH9-1" 
+          }
+        ]
+      },
+      {
+        "_id": "6",
+        "photo": "./projects/jetpac.PNG",
+        "title": "Jetpac - Game demo project",
+        "video": "https://www.youtube.com/embed/AMSQMUOMJWo?si=h4VXgEy8R3ACy7ls",
+        "date": "05/25/2021",
+        "technologies": [
+          "Java", "Greenfoot"
+        ],
+        "short_description": "Game demo based on the 1983 game ''Jetpac'' from Rare.",
+        "description": "A game demo based on the 1983 game ''Jetpac'' from Ultimate Play The Game, later known as Rare. This project was developed with the purpose of applying the knowledge of object-oriented programming./*Using Java and a ''game engine'' called Greenfoot, I emulated the features of the original game while adding some of my own ideas./**I do not own any of the assets used in the project. This project was made just for learning purposes.*",
+        "links": [
+          {
+            "page": "youtube",
+            "link": "https://youtu.be/AMSQMUOMJWo"
+          }
+        ]
+      },
+      {
+        "_id": "7",
+        "photo": "./projects/zelda.PNG",
+        "title": "Hyrule fantasy - Game demo project",
+        "video": "https://www.youtube.com/embed/vgXfltk1NkA?si=iaS9JedbDHc3aqdm",
+        "date": "12/02/2019",
+        "technologies": [
+          "C language", "graphics.h"
+        ],
+        "short_description": "Demo project written in C based on a typical zelda game.",
+        "description": "A little game demo inspired by the zelda games. The main goal with the development of this project, is to practice and have a deeper understanding of how pointers and memory allocation work in C./*All the game entities work over a mesh (you can see it as a double-linked list), where every node is a pointer connected to another pointer node on its left, right, up, and down. This helps other entities (player, enemies, tiles of the map) get a location in the world where they can move in every direction./*All the sprites are text files that store numbers. These numbers are interpreted by the graphics.h library/header that helps showing images/figures on the screen./**I do not own any of the ideas and/or assets used in the project. This project was made just for learning purposes.*",
+        "links": [
+          {
+            "page": "github",
+            "link": "https://github.com/Damagd/hyr-fan"
+          },
+          {
+            "page": "youtube",
+            "link": "https://youtu.be/vgXfltk1NkA"
+          }
+        ]
+      },
+      {
+        "_id": "8",
+        "photo": "./projects/queue.PNG",
+        "title": "Queues - visual simulation project",
+        "video": "https://www.youtube.com/embed/dFPNW2VJo8M?si=COiyJdC4TkeoZPYm",
+        "date": "10/12/2019",
+        "technologies": [
+          "C language", "graphics.h"
+        ],
+        "short_description": "Little simulation on how queues works using C.",
+        "description": "A small project about a simulation of how a queue works using a real life situation. The point of this project is to simulate a ticket office queue using queues, stacks and linked lists in C./*On the most part of the simulation, the queue behaves in a FIFO manner, but when a person wants to leave the queue, the behavior changes to a stack, where the people behind need to leave the queue before he can move.",
+        "links": [
+          {
+            "page": "github",
+            "link": "https://github.com/Damagd/queue-simulation"
+          },
+          {
+            "page": "youtube",
+            "link": "https://youtu.be/dFPNW2VJo8M"
+          }
+        ]
+      },
+      {
+        "_id": "9",
+        "photo": "./projects/metro.PNG",
+        "title": "Subway lines - Graphs",
+        "video": "https://www.youtube.com/embed/yVuFibadaLI?si=ASjq5fMCSdfJu4nq",
+        "date": "11/08/2019",
+        "technologies": [
+          "C language", "graphics.h"
+        ],
+        "short_description": "Little demostration about how to work with graphs.",
+        "description": "A small visual program of how we can use graphs in a real-life situation. Every station is a node, and all the subway lines represent the complete graph./*Selecting a starting point and a destination, the program follows a path which takes the next station, so it can reach the final point.",
+        "links": [
+          {
+            "page": "github",
+            "link": "https://github.com/Damagd/subway"
+          },
+          {
+            "page": "youtube",
+            "link": "https://youtu.be/yVuFibadaLI"
+          }
+        ]
+      }
+    ]
+  }

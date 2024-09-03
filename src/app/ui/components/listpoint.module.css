@@ -1,0 +1,61 @@
+.point_item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .point_item:hover .point {
+    background-color: var(--main_turquesa_color);
+  }
+  
+  .point_item:hover .point_text {
+    font-weight: var(--text_imp_weight);
+  }
+  
+  .point_item .point_text{
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  .point_item .point_cointainer {
+    min-width: 2.375rem;
+    min-height: 2.375rem;
+    z-index: 2;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .point_item:hover .point_cointainer::before {
+    content: '';
+    background-color: var(--blanco_stroke_color);  
+    min-width: 1.125rem;
+    min-height: 2.25rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-100%,-50%);
+    position: absolute;
+    border-radius: 2.25rem 0 0 2.25rem;
+  }
+  
+  .point_item .point {
+    background-color: var(--sleepy_turquesa_color);  
+    min-width: 1.125rem;
+    min-height: 1.125rem;
+    border-radius: 100%;
+    z-index: 2;
+  }
+  
+  .point_item:hover .point::before{
+    content: '';
+    width: 36px;
+  }
+  
+  .point_item a {
+    color: var(--main_turquesa_color);
+    text-decoration: underline;
+  }

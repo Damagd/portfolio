@@ -1,0 +1,19 @@
+.spotborder_wrapper {
+    width: 100%;
+    position: relative;
+}
+
+.overlay_element {
+    pointer-events: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+    cursor: default;
+    background-color: transparent;
+    border-radius: var(--border_radius);
+    opacity: 0;
+    transition: opacity 0.5s;
+}

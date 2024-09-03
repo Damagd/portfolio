@@ -1,0 +1,21 @@
+.header_container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.header_container h3 {
+    display: flex;
+    align-items: center;
+    color: var(--main_turquesa_color);
+    font-size: 1.625rem;
+    font-weight: 500;
+}
+
+.header_container:hover h3{
+    color: var(--sleepy_turquesa_color);
+}
