@@ -140,7 +140,7 @@ export default function Title() {
 					</KnowledgeCard>
 					<KnowledgeCard title={'Aptitudes'}>
 						<div className='technology'>
-							Responsability
+							Responsibility
 						</div>
 						<div className='technology'>
 							Initiative

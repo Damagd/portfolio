@@ -55,12 +55,15 @@ export default function Page() {
                         In <b>Figma</b>, I create the final <b>High-Fidelity mockup</b>, which is usually the definitive design. The level of detail varies based on time, project size, and user requirements. For larger projects or team-based work, I thoroughly define aspects like <b>atomic design, animations, transitions, flows, variants, fonts, colors</b>, and other things. For smaller or quicker projects, such as a static page, I focus on key elements to outline the overall design.
                     </p>,
                     <article className="image-grid" key={2}>
-                        <ImageClicked classN="image-grid-col-2 image-grid-row-2" src="./images/process/working_on.PNG" alt={'Example - Final Mockup of an personal project application - In process'}/>
-                        <ImageClicked src="./images/process/high_fi_main.png" alt={'Example - Final mockup of this portfolio'} />
+                        <ImageClicked classN="image-grid-col-2 image-grid-row-2" src="./images/process/working_on1.PNG" alt={'Example - High fidelity mockup of a personal project - In process'}/>
+                        <ImageClicked src="./images/process/working_on.PNG" alt={'Example - Final Mockup of an personal project application - In process'}/>
+                        <ImageClicked src="./images/process/mockup1.PNG" alt={'Example - High fidelity mockup of FindIt - Mobile App'}/>
+                        <ImageClicked src="./images/process/mockup1_prototype.PNG" alt={'Example - High fidelity mockup of FindIt with prototyping - Mobile App'}/>
                         <ImageClicked src="./images/process/atoms.png" alt={'Example of Atomic design - Atoms'} />
                         <ImageClicked src="./images/process/moleculas.png" alt={'Example of Atomic design - Molecules'} />
                         <ImageClicked src="./images/process/organism.png" alt={'Example of Atomic design - Organisms'} />
                         <ImageClicked src="./images/process/templates.png" alt={'Example of Atomic design - Templates'} />
+                        <ImageClicked src="./images/process/high_fi_main.png" alt={'Example - Final mockup of this portfolio'} />
                     </article>]}
                 </ListPoint>
                 <p>Although I'm not a graphic designer or a UX/UI expert, I follow basic UX and UI principles to create a well-designed product.</p>
